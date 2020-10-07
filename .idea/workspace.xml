@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913821c8-c66d-42a4-8772-a4b2ae7163e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckAdmin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/LangSetter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/About.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/ClientDetail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Delivery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Dil.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Order.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Photos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Posts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Profession.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Project.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Slider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Subscribe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Team.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/UserLocations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Videos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/front/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/front/servis-detail.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/alp2010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alp2010.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/back/AboutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/back/AboutController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/back/ConfigController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/back/ConfigController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/back/ServicesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/back/ServicesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/back/TeamController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/back/TeamController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/front/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/front/PageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/config.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/config.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/layouts/include/main-sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/layouts/include/main-sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/services/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/services/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/services/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/services/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/team/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/team/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/back/team/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/back/team/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/front/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/front/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/front/layouts/include/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/front/layouts/include/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/front/layouts/include/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/front/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +130,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/planetgeo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -225,22 +175,38 @@
       <updated>1601985901830</updated>
       <workItem from="1601985904014" duration="4049000" />
       <workItem from="1602008122852" duration="11316000" />
-      <workItem from="1602049361325" duration="3186000" />
+      <workItem from="1602049361325" duration="4325000" />
     </task>
+    <task id="LOCAL-00001" summary="son">
+      <created>1602055105079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602055105079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="son" />
+    <option name="LAST_COMMIT_MESSAGE" value="son" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1848" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602056278953">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1848" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602056278953" />
     <state x="1816" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601994831647">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1816" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1601994831647" />
-    <state x="1711" y="25" key="CommitChangelistDialog2" timestamp="1602055101673">
+    <state x="1711" y="25" key="CommitChangelistDialog2" timestamp="1602055473229">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state x="1711" y="25" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602055101673" />
+    <state x="1711" y="25" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602055473229" />
     <state x="1829" y="120" key="FileChooserDialogImpl" timestamp="1602016911554">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
