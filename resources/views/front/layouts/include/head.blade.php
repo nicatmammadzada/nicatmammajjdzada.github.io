@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Alp 2010 MMC</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="site.">
+<link rel="shortcut icon" type="image/x-icon" href="/front/assets/img/icon/logo.png">
+
+<link rel="stylesheet" href="/front/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="/front/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/front/assets/css/slicknav.css">
+<link rel="stylesheet" href="/front/assets/css/animate.min.css">
+<link rel="stylesheet" href="/front/assets/css/magnific-popup.css">
+<link rel="stylesheet" href="/front/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/front/assets/css/themify-icons.css">
+<link rel="stylesheet" href="/front/assets/css/slick.css">
+<link rel="stylesheet" href="/front/assets/css/nice-select.css">
+<link rel="stylesheet" href="/front/assets/css/style.css">
